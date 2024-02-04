@@ -17,4 +17,4 @@ This is **Electronic Voting Machine ( EVM )** project developed in c++.
 
 ## Image
 
-![EVM](https://drive.google.com/file/d/1Z7xc0YdSDPbMg4X5Td9g65s2J6TSbLGA/view?usp=drive_link)
+![EVM](https://github.com/Abaidullah-Bhatti/Arduino-Projects/assets/155307500/8060d0c1-c3c2-4187-aaf6-2cc4458f656a)
